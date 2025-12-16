@@ -7,7 +7,7 @@ A fast-paced survival game where the soldier must dodge falling berets by moving
 ## 📱 Screenshots
 
 | Game Play | Game Over |
-|:---------:|:---------:|
+|:---|:---|
 | <img src="screenshot/game_play.png" width="160" /> | <img src="screenshot/game_over.png" width="160" /> |
 
 ## 🚀 Key Features
