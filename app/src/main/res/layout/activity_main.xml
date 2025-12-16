@@ -40,7 +40,7 @@
             android:padding="20dp"
             android:scaleType="fitCenter"
             app:tint="#FFFFFF"
-            android:contentDescription="שמאלה" />
+            android:contentDescription="Left" />
 
         <View
             android:layout_width="0dp"
@@ -56,7 +56,7 @@
             android:padding="20dp"
             android:scaleType="fitCenter"
             app:tint="#FFFFFF"
-            android:contentDescription="ימינה" />
+            android:contentDescription="Right" />
     </LinearLayout>
 
     <LinearLayout
