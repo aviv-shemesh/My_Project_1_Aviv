@@ -14,7 +14,6 @@ A fast-paced survival game where the soldier must dodge falling berets by moving
 * **Gameplay:** Dodge obstacles across 3 dynamic lanes.
 * **Feedback:** Visual and haptic (vibration) feedback on collision.
 * **Difficulty:** "Meteor shower" effect with increasing intensity.
-* **Score System:** Live tracking and high-score display.
 
 ## 🛠 Technical Highlights
 * **Language:** Kotlin
